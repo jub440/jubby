@@ -1,2 +1,6 @@
 hello 
 test2
+<<<<<<< Updated upstream
+=======
+dfdfdfdf
+>>>>>>> Stashed changes
